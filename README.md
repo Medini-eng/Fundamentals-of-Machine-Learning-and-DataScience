@@ -5,7 +5,8 @@ This repository is the code companion to learn the "Fundamentals of Machine Lear
 # ------------Steps for installation of Visual Studio code------------------
 
 Visual Studio Codeis one of the most commonly and effectively used programming tool in the industrt, commonly referred to as VS Code. It is a source-code editor developed by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. This is light weight plugin platform supporting mutiple langugaes including, Python, C, C++, Java, html, css and Javascript etc. 
-# Download the software from below link(w.r.t your os configuration)
+
+%Download the software from below link(w.r.t your os configuration)
 
 •	https://code.visualstudio.com/download
 
