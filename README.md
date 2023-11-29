@@ -22,6 +22,10 @@ Download the software from below link(w.r.t your os configuration)-
 
 •	If not added, add it manually by going to environment variables in the system
 
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/Medini-eng/Fundamentals-of-Machine-Learning-and-DataScience/assets/65450964/5b6a4849-5bfd-48f3-9583-80ca98a11b64)" />
+</p>
+
 ![image](https://github.com/Medini-eng/Fundamentals-of-Machine-Learning-and-DataScience/assets/65450964/5b6a4849-5bfd-48f3-9583-80ca98a11b64)
 
 ![image](https://github.com/Medini-eng/Fundamentals-of-Machine-Learning-and-DataScience/assets/65450964/de9097bf-fc24-48df-bf82-62d4edd560ae)
