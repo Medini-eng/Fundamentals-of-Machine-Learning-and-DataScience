@@ -13,3 +13,14 @@ Visual Studio Codeis one of the most commonly and effectively used programming t
 
  
 # ---------------Steps for installation of python----------------------------
+
+•	Download the latest version of python through the link -> https://www.python.org/downloads/
+•	Install the latest version of python downloaded by givging all the confirmation(deault path adding can be choosed)
+•	Check whether  python installation path is added to environment varibales?? 
+•	If not added, add it manually by going to environment variables in the system
+
+![image](https://github.com/Medini-eng/Fundamentals-of-Machine-Learning-and-DataScience/assets/65450964/5b6a4849-5bfd-48f3-9583-80ca98a11b64)
+
+![image](https://github.com/Medini-eng/Fundamentals-of-Machine-Learning-and-DataScience/assets/65450964/de9097bf-fc24-48df-bf82-62d4edd560ae)
+
+
