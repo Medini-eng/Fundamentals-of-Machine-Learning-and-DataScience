@@ -57,8 +57,26 @@ Download the software from below link(w.r.t your os configuration)-
 
 •	If not added, add it manually by going to environment variables in the system
 
+# ---------------Steps VS code setup for python ----------------------------
+
+•	In VS code please do install the python extension 'Pylance' 
+
+•	Check the python version in VS code - ctrl+Shift+P -> Select python interpreter -> Select the python with version that you have installed in Command prompt
+
  
-# ---------------Verification of Python Installation -----------------------
+# ---------------Verification of Python Installation ------------------------
+
+•	Open command prompt or cmd in your system
+•  Type python in the command prompt shell if result comes with python version i.e Python 3.11.4 ..or higher python has been installed correctly
+•  Else check the path addition in environment variables
+•  Along a side check for the pip also ( pip - Python Package Index , commond line for installation of python packages) by using the command - pip install numpy ( At this process internet should be connected with the system)
+•  Installation happens succefully without any error then everything is good to go ahead with the Machine learning and Data Science
+
+
+
+
+
+
 
 
 
