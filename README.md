@@ -16,7 +16,7 @@ Download the software from below link(w.r.t your os configuration)-
 
 •	Download the latest version of python through the link -> https://www.python.org/downloads/
 
-•	Install the latest version of python downloaded by givging all the confirmation(deault path adding can be choosed)
+•	Install the latest version of python downloaded by givging all the confirmation(deault path adding can be choosen at this step)
 
 •	Check whether  python installation path is added to environment varibales?? 
 
