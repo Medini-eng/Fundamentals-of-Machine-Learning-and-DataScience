@@ -11,13 +11,15 @@ Download the software from below link(w.r.t your os configuration)-
 •	https://code.visualstudio.com/download
 
 •	Install the VS code downloaded in the system
-
  
 # ---------------Steps for installation of python----------------------------
 
 •	Download the latest version of python through the link -> https://www.python.org/downloads/
+
 •	Install the latest version of python downloaded by givging all the confirmation(deault path adding can be choosed)
+
 •	Check whether  python installation path is added to environment varibales?? 
+
 •	If not added, add it manually by going to environment variables in the system
 
 ![image](https://github.com/Medini-eng/Fundamentals-of-Machine-Learning-and-DataScience/assets/65450964/5b6a4849-5bfd-48f3-9583-80ca98a11b64)
