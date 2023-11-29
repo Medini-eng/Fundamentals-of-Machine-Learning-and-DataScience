@@ -12,4 +12,4 @@ Visual Studio Codeis one of the most commonly and effectively used programming t
 •	Install the VS code downloaded in the system
 
  
-# ---------------Steps for installation of python------------------------------
+# ---------------Steps for installation of python----------------------------
