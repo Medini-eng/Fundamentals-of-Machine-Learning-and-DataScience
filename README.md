@@ -57,7 +57,7 @@ Download the software from below link(w.r.t your os configuration)-
 
 •	If not added, add it manually by going to environment variables in the system
 
-# ---------------Steps VS code setup for python ----------------------------
+# ---------------Steps for VS code setup---------------------------------
 
 •	In VS code please do install the python extension 'Pylance' 
 
