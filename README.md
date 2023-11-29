@@ -9,9 +9,6 @@ Visual Studio Codeis one of the most commonly and effectively used programming t
 
 •	https://code.visualstudio.com/download
 
-![image](https://github.com/Medini-eng/Fundamentals-of-Machine-Learning-and-DataScience/assets/65450964/577375e6-23ab-4ffa-a633-a5a189376a84)
-
-
 •	Install the VS code downloaded in the system
 
  
