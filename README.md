@@ -37,7 +37,7 @@ Unsupervised learning models
     coming up soon......
 
 # Requirements:-   
-# ------------Steps for installation of Visual Studio code------------------
+# ------Steps for installation of Visual Studio code------------
 
 Visual Studio Codeis one of the most commonly and effectively used programming tool in the industrt, commonly referred to as VS Code. It is a source-code editor developed by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. This is light weight plugin platform supporting mutiple langugaes including, Python, C, C++, Java, html, css and Javascript etc. 
 
@@ -47,7 +47,7 @@ Download the software from below link(w.r.t your os configuration)-
 
 •	Install the VS code downloaded in the system
  
-# ---------------Steps for installation of python----------------------------
+# ------Steps for installation of python---------------------
 
 •	Download the latest version of python through the link -> https://www.python.org/downloads/
 
@@ -57,14 +57,14 @@ Download the software from below link(w.r.t your os configuration)-
 
 •	If not added, add it manually by going to environment variables in the system
 
-# ---------------Steps for VS code setup-----------------------------------
+# ------Steps for VS code setup-----------------------------
 
 •	In VS code please do install the python extension 'Pylance' 
 
 •	Check the python version in VS code - ctrl+Shift+P -> Select python interpreter -> Select the python with version that you have installed in Command prompt
 
  
-# ---------------Verification of Python Installation ------------------------
+# ------Verification of Python Installation ---------------
 
 •	Open command prompt or cmd in your system
 
